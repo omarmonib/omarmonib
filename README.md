@@ -7,7 +7,7 @@ I build clean, scalable dashboards and modern web applications.
 
 ### 🚀 Featured Projects
 
-- 🛒 **E-Commerce Admin Dashboard**  
+- 🛒 **Admin-Dashboard-E-Commerce**  
   Production-ready admin dashboard for managing products, orders, and users  
   🔗 https://github.com/omarmonib/Admin-Dashboard-E-Commerce  
   🌐 https://admin-e-commerce-seven.vercel.app/
