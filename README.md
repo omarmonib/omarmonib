@@ -28,7 +28,7 @@ I build clean, scalable dashboards and modern web applications.
   🌐 https://noor-al-iman-web.vercel.app/
 
 - **github-profile-viewer**  
-  GitHub Profile Viewer built with Next.js and Tailwind CSS. Search GitHub users and view their profile info and repositories in a responsive interface.
+  GitHub Profile Viewer built with Next.js and Tailwind CSS. Search GitHub users and view their profile info and repositories in a responsive interface.  
   🔗 https://github.com/omarmonib/github-profile-viewer  
   🌐 https://github-profile-viewer-bice.vercel.app/
 
